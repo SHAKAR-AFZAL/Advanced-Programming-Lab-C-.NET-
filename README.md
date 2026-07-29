@@ -69,7 +69,6 @@ This repository is intended for educational purposes.
 
 ---
 
-
 ## 👨‍💻 Author
 
 **Mian Shakar Afzal**
