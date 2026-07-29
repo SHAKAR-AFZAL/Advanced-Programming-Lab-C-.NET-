@@ -49,7 +49,7 @@ Advanced-Programming-Lab/
 
 - 📚 Well-structured laboratory solutions
 - 💡 Practical implementation of advanced programming concepts
-- 🧩 Clean, readable, and documented source code
+- 🧩 Clean, readable, and documented lab reports
 - 🚀 Progressive learning from basic to advanced topics
 - 📂 Organized folder structure for easy navigation
 
