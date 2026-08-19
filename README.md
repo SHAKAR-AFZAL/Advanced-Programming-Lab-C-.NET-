@@ -10,7 +10,7 @@ This repository contains all lab work and assignments completed during the **Adv
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 - Apply Object-Oriented Programming (OOP) principles
 - Develop efficient problem-solving and logical thinking skills
