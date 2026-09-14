@@ -20,7 +20,7 @@ This repository contains all lab work & assignments completed during the **Advan
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 Advanced-Programming-Lab/
