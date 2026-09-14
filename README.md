@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository contains all lab work and assignments completed during the **Advanced Programming** course. The primary objective is to strengthen programming fundamentals while exploring advanced software development concepts through practical coding exercises.
+This repository contains all lab work & assignments completed during the **Advanced Programming** course. The primary objective is to strengthen programming fundamentals while exploring advanced software development concepts through practical coding exercises.
 
 ---
 
